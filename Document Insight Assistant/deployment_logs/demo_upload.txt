@@ -1,0 +1,2 @@
+Document Insight Assistant accepts PDF and TXT files.
+The app answers only from uploaded local documents and shows supporting excerpts.

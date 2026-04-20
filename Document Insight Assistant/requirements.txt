@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+streamlit==1.44.1
+pydantic-settings==2.9.1
+openai==1.76.0
+faiss-cpu==1.13.2
+pypdf==4.3.1
+pytest==8.3.5
+httpx==0.28.1
+python-multipart==0.0.20
+sentence-transformers>=3.0.0

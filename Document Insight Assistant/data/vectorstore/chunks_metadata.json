@@ -1,0 +1,17 @@
+{
+  "embedding_provider": "local_dummy",
+  "embedding_model": "local_dummy_384",
+  "embedding_dimension": 384,
+  "index_type": "IndexFlatIP",
+  "vector_count": 1,
+  "entries": [
+    {
+      "filename": "demo_upload.txt",
+      "chunk_id": "demo-upload-a3b893158f-p0000-c0001",
+      "chunk_text": "Document Insight Assistant accepts PDF and TXT files.\nThe app answers only from uploaded local documents and shows supporting excerpts.",
+      "source_type": "txt",
+      "page_number": null,
+      "vector_id": 0
+    }
+  ]
+}
